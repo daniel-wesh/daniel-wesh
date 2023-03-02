@@ -20,7 +20,7 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Python, Flask, React, JavaScript <br /> Graphql, Mongodb, SQL, C etc.
+- 🛠 &nbsp; I’m currently working with Python, Flask,JavaScript <br />Mongodb, SQL, C etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻💻 &nbsp; Some of my projects are available on [Github](https://github.com/daniel-wesh).
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/danielwaweru/)! I am happy to help.

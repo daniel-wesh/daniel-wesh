@@ -6,31 +6,26 @@
 
 ### Glad to see you here! &nbsp;
  
-I'm a Software Engineer at <a href="https://www.alxafrica.com/" target="_blank"> ALX Africa </a>. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to give a helping hand to those who need it 👨🏻💻. I'm currently into Web Development, AI 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a Data Analyst/ Data Engineer Learning at <a href="https://www.datacamp.com/" target="_blank"> Data Camp </a>. I'm a passionate learner who's always willing to work with Data and draw insights 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to give a helping hand to those who need it 👨🏻💻. I'm currently Data Anlytics, Data Engineering 🕸️ and working on Cloud Technologies 🤓.
 
 Joined Github **3** years ago.
 
 Since then I pushed **10**+ commits, opened **15**+ issues, submitted **26**+ pull requests, created **3**+ gists and contributed to **5**+ public repositories.
 
-Like My Work?
-
-<a href="https://www.buymeacoffee.com/danielwaweru" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
-<img align="right" height="250" width="375" alt="" src="giphy.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Python, Flask,JavaScript <br />Mongodb, SQL, C etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🛠 &nbsp; I’m currently working with Python, Azure, Power BI  <br /> SQL, etc.
+- 🚀 &nbsp; I’m currently learning Data Analytics and Engineering.
 - 👨🏻💻 &nbsp; Some of my projects are available on [Github](https://github.com/daniel-wesh).
-- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/danielwaweru/)! I am happy to help.
-- 👾 &nbsp; Fun fact: The first computer “bug” was an actual real-life bug.
+- 💬 &nbsp; Ask me about Data Analytics [here](https://www.linkedin.com/in/danielwaweru/)! I am happy to help.
+- 👾 &nbsp; Fun Data fact: Over 90% of the world’s data was created in just the last two years.
 - 📫 &nbsp; How to reach me: daniel.waweru@outlook.com.
 - 📝 &nbsp; Checkout my [Resume](https://www.linkedin.com/in/danielwaweru/).
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 💻 &nbsp; I love Cleaning Data, building Data Pipelines and Data Storytelling.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
@@ -47,15 +42,12 @@ Like My Work?
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-<!--
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
--->
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> DELL LATITUDE (CORE i7)</li>
+	    <li><b>Laptop: </b> Lenovo ThinkPad (CORE i7)</li>
   	    <li><b>Browser: </b> Brave Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel9k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>

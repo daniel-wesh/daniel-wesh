@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp;
  
-I'm a Data Analyst/ Data Engineer Learning at <a href="https://www.datacamp.com/" target="_blank"> Data Camp </a>. I'm a passionate learner who's always willing to work with Data and draw insights 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to give a helping hand to those who need it 👨🏻💻. I'm currently Data Anlytics, Data Engineering 🕸️ and working on Cloud Technologies 🤓.
+I'm a Data Analyst/ Data Engineer Learning at <a href="https://www.datacamp.com/" target="_blank"> Data Camp </a>. I'm a passionate learner who's always willing to work with Data and draw insights 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to give a helping hand to those who need it 👨🏻💻. I'm currently working in Data Analytics, Data Engineering 🕸️ and working on Cloud Technologies 🤓.
 
 Joined Github **3** years ago.
 
